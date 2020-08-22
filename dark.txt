@@ -1,10 +1,10 @@
 List of Dark Characters
 
-- Jonas
-- Martha
-- Bartosz
-- Magnus
-- Mikkel
-- Franziska
-- Ulrych
-- Khatarina
+- Jonas Kahnwald
+- Martha Nielsen
+- Bartosz Tiedemand
+- Magnus Nilsen
+- Mikkel Nielsen
+- Franziska Doppler
+- Ulrych Nielsen
+- Khatarina Nielsen
